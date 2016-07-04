@@ -1,10 +1,9 @@
 author: Mike D
-  name:           'Mike D'
-  twitter:        mike1d
-  github:         mike1d
-  photo:          http://qwtel.com/public/img/flo.jpg
-  about:          |
-    Hi! I'm Mike.
+name:           'Mike D'
+twitter:        mike1d
+github:         mike1d
+photo:          http://qwtel.com/public/img/flo.jpg
+about:          Hi! I'm Mike.
 url: mike1d.github.io
 title: Mike (Michael) D
 description: I'm awesome!
