@@ -118,7 +118,7 @@ a:focus::before {
   background-position: center center;
 }
 /* make sidebar slightly darker to increase text readability (when using a background image) */
-.sidebar::before {
+/*.sidebar::before {
   content: "";
   position: absolute;
   top: 0;
@@ -130,7 +130,7 @@ a:focus::before {
 
 .drawer {
   padding-left: 0.5rem;
-}
+}*/
 
 /* Use larg desktop styles for mobile as well when the JS "drawer" is active */
 .drawer > .sidebar {
