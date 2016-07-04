@@ -4,7 +4,7 @@ permalink:        pretty
 # Setup
 title:            Mike D
 tagline:          'Programmer'
-description:      'I'm awesome.'
+description:      "I'm awesome."
 url:              http://mike1d.github.io
 baseurl:          /
 
