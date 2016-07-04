@@ -232,13 +232,13 @@ a:focus::before {
 /* About section */
 .sidebar-about > h1 {
   font-family: "Roboto Slab", "PT Serif", Georgia, serif;
-  color: #fff;
+  color: #000;
   margin-top: 0;
   font-size: 2rem;
 }
 
 .sidebar-about code {
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(0, 0, 0, 0.15);
 }
 
 /* Sidebar nav */
