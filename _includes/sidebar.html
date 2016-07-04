@@ -17,6 +17,10 @@
   {% assign image = site.image %}
 {% endunless %}
 
+{% if site.author.photo %}
+  ![{{ site.author.name }}]({{ site.author.photo }}){:.me}
+{% endif %}
+
 <div   id="_backdrop" class="backdrop"></div>
 <aside id="_sidebar" class="sidebar" {% if image %}style="background-image:url('{{ image }}')"{% endif %}>
   <div class="container">
