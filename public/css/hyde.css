@@ -110,7 +110,7 @@ a:focus::before {
   z-index: 4;
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(0,0,0,.5);
+  color: rgba(0,0,0,0);
   background-color: #ffffff!important;
   text-align: left;
 
@@ -188,7 +188,7 @@ a:focus::before {
   top: 0;
   left: 0;
   padding: 1.25rem 1rem ;
-  color: #9a9a9a;
+  color: #f9f9f9;
   z-index: 2;
 }
 
@@ -238,7 +238,7 @@ a:focus::before {
 }
 
 .sidebar-about code {
-  background-color: rgba(0, 0, 0, 0.15);
+  background-color: rgba(0, 0, 0, 0);
 }
 
 /* Sidebar nav */
@@ -386,7 +386,7 @@ a:focus::before {
   overflow-y: hidden;
   margin: 1rem -1rem;
   padding: 1rem;
-  background-color: #f9f9f9;
+  background-color: #9a9a9a;
 }
 
 .MathJax_Preview {
