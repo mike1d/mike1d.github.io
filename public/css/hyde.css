@@ -56,8 +56,8 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(0,0,0,.5);
-  background-color: #ffffff;
+  color: rgba(250,250,250,.5);
+  background-color: #8f5536;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -72,12 +72,12 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #000;
+  color: #aa759f;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #000;
+  color: #6a9fb5;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 3.25rem;
@@ -179,9 +179,9 @@ a.sidebar-nav-item:focus {
 
 /* White */
 .theme-base-0d .sidebar {
-  background-color: #ffffff;
+  background-color: #90a959;
 }
 .theme-base-0d .content a,
 .theme-base-0d .related-posts li a:hover {
-  color: #202020;
+  color: #d28445;
 }
