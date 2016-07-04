@@ -56,8 +56,8 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(172, 65, 66,.5);
-  background-color: #8f5536;
+  color: rgba(172, 65, 66); /*text in sidebar*/
+  background-color: #8f5536; /*links in main*/
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -72,7 +72,7 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #aa759f;
+  color: #aa759f; /*sidebar links*/
 }
 
 /* About section */
@@ -179,7 +179,7 @@ a.sidebar-nav-item:focus {
 
 /* White */
 .theme-base-0d .sidebar {
-  background-color: #90a959;
+  background-color: #90a959; /*sidebar color*/
 }
 .theme-base-0d .content a,
 .theme-base-0d .related-posts li a:hover {
